@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: jeffthomson5150/nginx:v0.1.3
+        image: jeffthomson5150/nginx:v0.1.4
         ports:
         - containerPort: 80
